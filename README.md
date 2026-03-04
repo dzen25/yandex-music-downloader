@@ -26,7 +26,7 @@ wget https://raw.githubusercontent.com/dzen25/yandex-music-downloader/refs/heads
 
 # Сделать исполняемым и переместить в PATH
 chmod +x ym-downloader
-sudo mv ym-downloader.py /usr/local/bin/
+sudo mv ym-downloader /usr/local/bin/
 ```
 
 ### Ручная установка
