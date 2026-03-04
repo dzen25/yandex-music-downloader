@@ -58,7 +58,7 @@ ym-downloader --config
    - `0` — Низкое (AAC 64kbps)
    - `1` — Оптимальное (AAC 192kbps)
    - `2` — Лучшее (FLAC)
-3. **Директорию для загрузки** (по умолчанию: `yandex-music-download`)
+3. **Директорию для загрузки** (по умолчанию: `yandex-music-download`) (указывается полный путь)
 4. **Дополнительные параметры** — например: `--skip-existing --embed-cover`
 
 Настройки сохраняются в `~/.config/ym-downloader/config.json`
