@@ -22,10 +22,10 @@
 
 ```bash
 # Скачать скрипт
-wget https://raw.githubusercontent.com/dzen25/yandex-music-downloader/refs/heads/main/ym-downloader.py
+wget https://raw.githubusercontent.com/dzen25/yandex-music-downloader/refs/heads/main/ym-downloader
 
 # Сделать исполняемым и переместить в PATH
-chmod +x ym-downloader.py
+chmod +x ym-downloader
 sudo mv ym-downloader.py /usr/local/bin/
 ```
 
@@ -37,10 +37,10 @@ git clone https://github.com/dzen25/yandex-music-downloader
 cd ym-downloader
 
 # Сделать скрипт исполняемым
-chmod +x ym-downloader.py
+chmod +x ym-downloader
 
 # Переместить в PATH
-sudo ln -s $(pwd)/ym-downloader.py /usr/local/bin/ym-downloader
+sudo ln -s $(pwd)/ym-downloader /usr/local/bin/ym-downloader
 ```
 
 ## 🔧 Первоначальная настройка
